@@ -1,15 +1,16 @@
-Hi, I'm Ranjan! 👋
+## Hi, I'm Ranjan! 👋
 
 I'm a web developer passionate about building cool stuff and helping others learn.
 
-Let's connect:
+**Let's connect:**
 
-Email: ranjan3nov@gmail.com
-LinkedIn: https://linkedin.com/in/ranjan3nov
-Medium: https://medium.com/@ranjan3nov
-Youtube: https://www.youtube.com/@codingskils
-Check out my projects:
+* **Email:** ranjan3nov@gmail.com
+* **LinkedIn:** [Ranjan](https://linkedin.com/in/ranjan3nov)
+* **Medium:** [@Ranjan](https://medium.com/@ranjan3nov)
+* **YouTube:** [Coding Skills](https://www.youtube.com/@codingskils)  
 
-demo.microbyz.com
+**Check out my projects:**
 
-Let's build something awesome together! 🚀
+* [My Portfolio](demo.microbyz.com)
+
+**Let's build something awesome together! **
