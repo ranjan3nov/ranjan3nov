@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Ranjan! 👋
 
-<!--
-**ranjan3nov/ranjan3nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer passionate about building cool stuff and helping others learn.
 
-Here are some ideas to get you started:
+Let's connect:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: ranjan3nov@gmail.com
+LinkedIn: https://linkedin.com/in/ranjan3nov
+Medium: https://medium.com/@ranjan3nov
+Youtube: https://www.youtube.com/@codingskils
+Check out my projects:
+
+demo.microbyz.com
+
+Let's build something awesome together! 🚀
