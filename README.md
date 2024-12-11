@@ -11,7 +11,7 @@ I'm a web developer passionate about building cool stuff and helping others lear
 
 **Check out my projects:**
 
-* [My Portfolio](https://ranjan3nov.in/login)
+* [My Portfolio](https://ranjan3nov.in)
 * [Microfinance](http://demo.microbyz.com/)
 
 **Let's build something awesome together!**
